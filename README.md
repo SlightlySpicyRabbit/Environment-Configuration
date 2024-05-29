@@ -1,6 +1,13 @@
 # Environment-Configuration
 Used to record the functions of python libraries and the installation methods
 
+## Data Structure
+* **NumPy:** Data structure commonly used in data science, based on C and very efficient
+  * conda install numpy
+
+* **Pandas:** Data structure commonly used in data science, based on NumPy, provide DataFrame
+  * conda install pandas
+
 ## Machine Learning
 * **SKlearn:** Classic machine learning open source library, based on NumPy, SciPy, and matplotlib 
   * conda install scikit-learn
