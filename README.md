@@ -8,10 +8,17 @@ Used to record the functions of python libraries and the installation methods
 * **Pandas:** Data structure commonly used in data science, based on NumPy, provide DataFrame
   * conda install pandas
 
-## Scientific computing
+## Scientific Computing
 * **SciPy:** Commonly used scientific calculation database
   * conda install scipy
-
+    
+## Data Visualization
+* **Jupyter Notebook:** Allow users to create and share interactive documents containing code, text, formulas, diagrams, and visualizations in a single document
+  * conda install jupyter
+    
+* **MatPlotLib:** Widely used python plot library
+  * conda install matplotlib
+  
 ## Machine Learning
 * **SKlearn:** Classic machine learning open source library, based on NumPy, SciPy, and matplotlib 
   * conda install scikit-learn
