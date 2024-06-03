@@ -28,8 +28,9 @@ Used to record the functions of python libraries and the installation methods
   * Get installation instructions from the official website [https://pytorch.org/](https://pytorch.org/)
 
 ## Database
-* **SQLAlchemy:** A comprehensive Python library for working with databases using object-relational mapping (ORM) as well as direct database access
-  * conda install sqlalchemy (requires the corresponding database driver to use)
+* **SQLAlchemy:** A comprehensive Python library for working with databases using object-relational mapping (ORM) as well as direct database access (requires the corresponding database driver to use)
+  * conda install sqlalchemy 
  
 * **psycopg2:** Driver for PostgreSQL
-  * pip install psycopg2 (needs to be compiled at installation time, pre-compiled versions are optional: pip install psycopg2-binary)
+  * pip install psycopg2 (needs to be compiled at installation time)
+  * pip install psycopg2-binary (pre-compiled versions are optional)
