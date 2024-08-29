@@ -1,5 +1,5 @@
-# Environment-Configuration
-Used to record the functions of python libraries and the installation methods
+# Python-Environment-Configuration
+Used to document how to install Python libraries and their corresponding functions
 
 ## Data Structure
 * **NumPy:** Data structure commonly used in data science, based on C and very efficient
